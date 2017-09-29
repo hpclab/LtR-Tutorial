@@ -11,3 +11,4 @@ website: **http://learningtorank.isti.cnr.it/**
 
 email: **ltrtutorial [AT] isti.cnr.it**
 
+<img src="images/banner.png" width="250">
