@@ -1,6 +1,6 @@
 # Efficiency/Effectiveness Trade-offs in Learning to Rank
 
-### Tutorial @ ICTIR 2017
+### Tutorial
 
 ##### Claudio Lucchese (UniVe), Franco Maria Nardini (ISTI-CNR)
 ##### High Performance Computing Lab. http://hpc.isti.cnr.it/
