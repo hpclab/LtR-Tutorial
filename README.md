@@ -11,4 +11,4 @@ website: **http://learningtorank.isti.cnr.it/**
 
 email: **ltrtutorial [AT] isti.cnr.it**
 
-<img src="images/banner.png">
+<img src="ICTIR2017/images/banner.png">
